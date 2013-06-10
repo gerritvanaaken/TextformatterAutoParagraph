@@ -1,7 +1,7 @@
 ## TextformatterAutoParagraph
 
 Module for the fantastic CMS ProcessWire
-Convert line breaks into <p> and <br> in an intelligent fashion.
+Convert line breaks into &lt;p&gt; and &lt;br&gt; in an intelligent fashion.
 
 Based on: http://photomatt.net/scripts/autop
 Forked from: Drupal filter core module.
