@@ -5,7 +5,7 @@ class TextformatterAutoP extends Textformatter {
 	public static function getModuleInfo() {
 		return array(
 			'title' => 'AutoP', 
-			'version' => 1, 
+			'version' => 101, 
 			'summary' => 'Convert line breaks into <p> and <br> in an intelligent fashion. Based on: http://photomatt.net/scripts/autop, forked from: Drupal filter core module. Licenced under GPLv2. Have fun with the code.',
 			'href' => 'http://praegnanz.de'
 		); 
